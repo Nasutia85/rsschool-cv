@@ -1,5 +1,5 @@
 # **Anastasiya  Sleaptzova**
-Junior frontend developer
+Junior front-end developer
 *************************
 
 ![assets/img/photo_cv.jpg](assets/img/photo_cv.jpg)
@@ -40,12 +40,11 @@ My name is Anastasia and I live in Belarus. I am 38 years old. I've started my a
             <td>65</td>
         </tr>
         </tbody>
-        </table>
-```
+        </table>```
 
 
 ## **Experience**
-[CV](https://Nasutia85.github.io/rsschool-cv/)
+[Anastasiya  Sleaptzova CV](https://Nasutia85.github.io/rsschool-cv/)
 1. HTML
 2. CSS
 3. Markdown
