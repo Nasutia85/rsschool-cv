@@ -1,5 +1,5 @@
 # **Anastasiya  Sleaptzova**
-Junior front-end developer
+Junior front-end developer   
 *************************
 
 ![photo_cv.jpg](photo_cv.jpg)
@@ -27,20 +27,21 @@ My name is Anastasia and I live in Belarus. I am 38 years old. I've started my a
     <thead>
         <tr> 
             <th>Товар</th>
-             <th>Январь</th>   
-            </tr>
-            </thead>
-            <tdody>
-                <tr>
+            <th>Январь</th>   
+        </tr>
+    </thead>
+    <tdody>
+        <tr>
             <td>Персики</td>
-        <td>86</86>
+            <td>86</td>
         </tr>
         <tr>
             <td>Яблоки</td>
             <td>65</td>
         </tr>
-        </tbody>
-        </table>```
+    </tbody>
+</table>
+```
 
 
 ## **Experience**
