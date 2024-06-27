@@ -1,6 +1,6 @@
 # **Anastasiya  Sleaptzova**
-Junior front-end developer   
-*************************
+## Junior front-end developer   
+-----------------------------
 
 ![photo_cv.jpg](photo_cv.jpg)
 
